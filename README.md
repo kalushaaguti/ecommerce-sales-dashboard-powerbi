@@ -1,3 +1,5 @@
+![dashboard png](https://github.com/user-attachments/assets/5f62a0d8-6205-474d-a09d-f7f45f589673)
+
 🚀Project Summary
 
 This project is an interactive Power BI Business Intelligence dashboard developed to analyze sales performance and profitability for an e-commerce dataset.
