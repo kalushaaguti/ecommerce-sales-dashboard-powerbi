@@ -1,4 +1,5 @@
-Project Summary
+🚀Project Summary
+
 This project is an interactive Power BI Business Intelligence dashboard developed to analyze sales performance and profitability for an e-commerce dataset.
 The dashboard provides executives and business teams with a clear overview of:
 Revenue generation
